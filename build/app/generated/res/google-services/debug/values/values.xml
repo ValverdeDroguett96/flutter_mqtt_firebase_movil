@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">518461281921-gdov5oc8jj0dbhisc2bo3rk7f2siaj2d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://appagrinocloud.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">518461281921</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvbDY48vIDGZ4YQ6IXclucZg-7T-EjawQ</string>
+    <string name="google_app_id" translatable="false">1:518461281921:android:3645a2234a8efa86d79f80</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvbDY48vIDGZ4YQ6IXclucZg-7T-EjawQ</string>
+    <string name="google_storage_bucket" translatable="false">appagrinocloud.appspot.com</string>
+    <string name="project_id" translatable="false">appagrinocloud</string>
+</resources>

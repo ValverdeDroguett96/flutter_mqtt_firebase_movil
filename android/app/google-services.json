@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518461281921",
+    "firebase_url": "https://appagrinocloud.firebaseio.com",
+    "project_id": "appagrinocloud",
+    "storage_bucket": "appagrinocloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518461281921:android:3645a2234a8efa86d79f80",
+        "android_client_info": {
+          "package_name": "com.example.logincloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518461281921-ph3s14r28ie8pj3s63ngk5li63pe95cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logincloud",
+            "certificate_hash": "7369def9d22370bdadc55b571466d5ca38f7c069"
+          }
+        },
+        {
+          "client_id": "518461281921-gdov5oc8jj0dbhisc2bo3rk7f2siaj2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvbDY48vIDGZ4YQ6IXclucZg-7T-EjawQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518461281921-gdov5oc8jj0dbhisc2bo3rk7f2siaj2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
